@@ -1,4 +1,4 @@
-### Hi there 👋
+![Metrics](https://metrics.lecoq.io/nzsnapshot?template=classic&isocalendar=1&activity=1&lines=1&base.indepth=false&base.hireable=false&isocalendar.duration=full-year&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Pacific%2FAuckland)
 
 <!--
 **nzsnapshot/nzsnapshot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
