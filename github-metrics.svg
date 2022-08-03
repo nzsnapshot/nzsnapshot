@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1162" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1195" class="">
     <defs>
         <style/>
     </defs>
@@ -2235,6 +2235,66 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">LucidGamingNetwork/LC2.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#16968d4</div>
+                                        <div class="message">Update drug information for stamping of products in future</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#821e019</div>
+                                        <div class="message">Update crew tag</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ca143d</div>
+                                        <div class="message">bug fix with giving items if provided incorrect capitalisation + crew drug stamp stuff</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">LucidGamingNetwork/LC2.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9e52ee9</div>
+                                        <div class="message">More spell effects</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5f8fa63</div>
+                                        <div class="message">Updates to laptop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f8dcf10</div>
+                                        <div class="message">Drug labs within crews</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c393352</div>
+                                        <div class="message">More crew stuff</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 2 commits in
                                         <span class="repo">LucidGamingNetwork/LC2.0</span>
                                     </div>
@@ -2300,64 +2360,12 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">LucidGamingNetwork/LC2.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f839533</div>
-                                        <div class="message">Conflicts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2980044</div>
-                                        <div class="message">Zonessize param</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">LucidGamingNetwork/LC2.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b53ca62</div>
-                                        <div class="message">Centeralize crews into core - a single point on truth</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#60db766</div>
-                                        <div class="message">Bug fix with toggling this on</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4231720</div>
-                                        <div class="message">whitelist more particles</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Aug 2022, 14:52:24 (timezone Pacific/Auckland) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 3 Aug 2022, 15:44:29 (timezone Pacific/Auckland) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
