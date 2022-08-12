@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1278" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1079" class="">
     <defs>
         <style/>
     </defs>
@@ -2250,6 +2250,26 @@
                                     </div>
                                 </div>
                                 <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fd6c877</div>
+                                        <div class="message">Merge branch 'dev' of https://github.com/LucidGamingNetwork/LC2.0 into dev</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">LucidGamingNetwork/LC2.0</span>
+                                    </div>
+                                </div>
+                                <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
                                         <div class="sha">#20cfc7d</div>
@@ -2318,82 +2338,12 @@ Bug fix</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">LucidGamingNetwork/LC2.0</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#eeb262a</div>
-                                        <div class="message">Merge pull request #998 from LucidGamingNetwork/dev
-
-Dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#69b8908</div>
-                                        <div class="message">Reduce the picking time to support the new drug system</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6aafed9</div>
-                                        <div class="message">Reset crews if called</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff6932b</div>
-                                        <div class="message">Minor bug fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2808ce4</div>
-                                        <div class="message">Cleaned up RCORE SPRAY</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#292888a</div>
-                                        <div class="message">Laptop updates</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64c5953</div>
-                                        <div class="message">Lowered rep needed to start a crew</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9dcc34</div>
-                                        <div class="message">Added VIP interiors + fixed some zone pricing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#652f322</div>
-                                        <div class="message">Formatted this file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f2310d</div>
-                                        <div class="message">Open up the grove street tunnels</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a40d133</div>
-                                        <div class="message">Merge branch 'dev' of https://github.com/LucidGamingNetwork/LC2.0 into dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67f510d</div>
-                                        <div class="message">Pass item Info</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1105da5</div>
-                                        <div class="message">OCD</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Aug 2022, 05:09:44 (timezone Pacific/Auckland) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 13 Aug 2022, 06:05:03 (timezone Pacific/Auckland) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
