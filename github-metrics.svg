@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1112" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1062" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            10263 Commits
+                            10301 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2230,27 +2230,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 4 commits in
+                                        Pushed 3 commits in
                                         <span class="repo">LucidGamingNetwork/LC2.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#dd931df</div>
-                                        <div class="message">Added pat for cash option for police</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2c8308</div>
-                                        <div class="message">Clean up and remove useless code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a7f6877</div>
-                                        <div class="message">More devtools shit</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#94ce6b8</div>
-                                        <div class="message">If you want to password your server</div>
+                                        <div class="sha">#498f080</div>
+                                        <div class="message">Merge branch 'dev' of https://github.com/LucidGamingNetwork/LC2.0 into dev</div>
                                     </div>
                                 </div>
                             </section>
@@ -2262,14 +2250,14 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 3 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">LucidGamingNetwork/LC2.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fc4c9de</div>
+                                        <div class="sha">#1c482d3</div>
                                         <div class="message">Merge branch 'dev' of https://github.com/LucidGamingNetwork/LC2.0 into dev</div>
                                     </div>
                                 </div>
@@ -2289,8 +2277,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ff72938</div>
-                                        <div class="message">Bug fix crew labs pin</div>
+                                        <div class="sha">#d93b0b2</div>
+                                        <div class="message">OCD</div>
                                     </div>
                                 </div>
                             </section>
@@ -2309,8 +2297,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#07d33d6</div>
-                                        <div class="message">Bug fix sprays not being removed</div>
+                                        <div class="sha">#892c825</div>
+                                        <div class="message">Job check this event</div>
                                     </div>
                                 </div>
                             </section>
@@ -2322,15 +2310,15 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 5 commits in
                                         <span class="repo">LucidGamingNetwork/LC2.0</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dev</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9eb4b30</div>
-                                        <div class="message">Bug fix with looting airdrops whilst dead</div>
+                                        <div class="sha">#7085edb</div>
+                                        <div class="message">Merge branch 'dev' of https://github.com/LucidGamingNetwork/LC2.0 into dev</div>
                                     </div>
                                 </div>
                             </section>
@@ -2340,7 +2328,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 Aug 2022, 07:04:39 (timezone Pacific/Auckland) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 31 Aug 2022, 08:04:59 (timezone Pacific/Auckland) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
