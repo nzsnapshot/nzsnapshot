@@ -48,4 +48,4 @@ jobs:
           plugin_activity_timestamps: yes    # Display events timestamps
           plugin_activity_skipped: repo      # Ignored repositories
           plugin_calendar: yes
-          plugin_calendar_limit: 4
+          plugin_calendar_limit: 3
